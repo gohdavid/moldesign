@@ -1,0 +1,14 @@
+name: moldesign
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python >=3.10, <3.11
+  - pip
+  - ipykernel
+  - pandas >=2.1.1
+  - seaborn >= 0.12.2
+  - scienceplots
+  - rdkit
+  - scikit-learn
+  - umap
