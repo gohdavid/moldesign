@@ -11,4 +11,4 @@ dependencies:
   - scienceplots
   - rdkit
   - scikit-learn
-  - umap
+  - chemprop
